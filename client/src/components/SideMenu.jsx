@@ -70,5 +70,5 @@ const SideMenu = () => {
     </div>
   );
 };
-
+ 
 export default SideMenu;
